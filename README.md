@@ -23,4 +23,5 @@ There's nothing too special here really.
 
 
 
-ballin
+### ballin, but at what cost?
+none really it's just a shitty website

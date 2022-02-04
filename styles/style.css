@@ -3,15 +3,16 @@ body {
   }
   
   h1 {
+    font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
-    text-align: center;
+    text-align: left;
   }
   
   h2 {
-    text-align: center;
+    text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
   }
 
@@ -25,3 +26,4 @@ body {
     text-align: center;
     color: grey;
   }
+}

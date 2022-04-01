@@ -1,6 +1,5 @@
 # CorruptedPlazma.github.io
-My personal website, aka my gateway to learning web design on my own
-There's nothing too special here really.
+My personal website, aka a showcase of how bad I am at web design :troll:
 
 
 

@@ -1,0 +1,2 @@
+# Ignore my code-workspace file, which I keep in the git on my computer for organizational reasons
+*.code-workspace
